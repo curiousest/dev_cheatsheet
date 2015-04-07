@@ -44,9 +44,10 @@ Git
 ====
 
 ## Reset hard to origin master
-$ git fetch
-$ git reset --hard origin/master
-
+```bash
+git fetch
+git reset --hard origin/master
+```
 
 Python
 ====
