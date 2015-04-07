@@ -45,8 +45,8 @@ Git
 
 ## Reset hard to origin master
 ```bash
-git fetch
-git reset --hard origin/master
+$ git fetch
+$ git reset --hard origin/master
 ```
 
 Python
