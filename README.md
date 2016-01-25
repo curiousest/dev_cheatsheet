@@ -43,7 +43,7 @@ kill %1
 Git
 ====
 
-## Reset hard to origin master
+## Reset all files completely to origin master
 ```bash
 git fetch
 git reset --hard origin/master
@@ -53,3 +53,10 @@ Python
 ====
 
 ## My custom .env_setup
+
+
+Security
+====
+
+## Filter requests to a server low level
+iptables: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04
